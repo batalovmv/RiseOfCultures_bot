@@ -1,0 +1,31 @@
+
+{
+    "user_data_dir": "C:/Users/Михаил/AppData/Local/Google/Chrome/User Data",
+    "profiles": [
+        {
+            "name": "Profile 2",
+            "directory": "Profile 2"
+        },
+        {
+            "name": "Profile 3",
+            "directory": "Profile 3"
+        },
+        {
+            "name": "Profile 4",
+            "directory": "Profile 4"
+        },
+        {
+            "name": "Profile 5",
+            "directory": "Profile 5"
+        },
+        {
+            "name": "Profile 6",
+            "directory": "Profile 6"
+        },
+        {
+            "name": "Profile 7",
+            "directory": "Profile 7"
+        }
+    ],
+    "selected_profile": "Profile 2"
+}
